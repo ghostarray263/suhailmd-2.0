@@ -17,11 +17,11 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || "false" || "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/suhailmd-2.0";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07" ; 
+global.github=process.env.GITHUB|| "https://github.com/ghostarray263";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaxyElU6GcGIeqYRsj0V";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaxyElU6GcGIeqYRsj0V" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/TgwRyHR/Ephoto360-com-166de101e03cd7.jpg" || "https://i.ibb.co/bH1kbX0/a4c0b1af253197d4837ff6760d5b81c0.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "© SuhailTechInfo" 
+global.caption = process.env.CAPTION || global.caption || "© WolfTech" 
 
 
 global.devs = "" // Developer Contact
